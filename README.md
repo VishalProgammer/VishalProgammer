@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **React and JavaScript**
 
-- 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
+- 📝 I sometimes post at [https://dev.to/](https://dev.to/)
 
-- 💬 Ask me about **Web-development, Start-up ideas, Psychology and World Economy**
+- 💬 let's discuss **Web-development, AI, Start-up ideas, Psychology and World Economy**
 
-- 📫 How to reach me **vishalprogrammerofficial@gmail.com**
+- 📫 Reach out to me at **vishalprogrammerofficial@gmail.com**
 
-- ⚡ Fun fact **I am an introvert who love socializing**
+- ⚡ Fun fact: **I am an introvert who love socializing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
