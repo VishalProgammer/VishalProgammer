@@ -1,4 +1,7 @@
 <h1 align="center">Hey 👋, I'm Vishal 😺</h1>
+
+<img src="https://i.imgur.com/gzmAFV4.jpeg" alt="programming" width="100%" height="10%" />
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **React and JavaScript**
