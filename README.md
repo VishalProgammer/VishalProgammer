@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Vishal 😺</h1>
+<h1 align="center">Hey 👋, I'm Vishal😺</h1>
 
 <img src="https://i.imgur.com/chMYZKQ_d.webp?maxwidth=760&fidelity=grand" alt="programming" width="100%" height="10%" />
 
